@@ -1,62 +1,56 @@
+
+
+---
+
 class: center, middle
 
-# 讲义题目
+# 一个关于YY的介绍
 
-&nbsp;
-&nbsp;
+#### 姚缘 (yaoyuan0721@pku.edu.cn)
 
-#### 作者姓名 (author@email.com)  
-
-主页: https://github.com/author
+主页: https://github.com/CarolYao
 
 ---
 
-## 本讲内容
+## 我也不知道该说这个人什么
 
-### <font color="orangered">1. 第一部分</font>
+### 吃货属性
 
-#### &nbsp; &nbsp; 1.1 如何学习
-#### &nbsp; &nbsp; 1.2 好好学习
-#### &nbsp; &nbsp; 1.3 好好学习
+### 人前很怂
 
-### 2. 第二部分
+### 私下幼稚
 
-### 3. 第三部分
+### 。。。。。。
 
 ---
+## 才不是呢你被骗了这才是认真的自我介绍
 
-## 第一部分
+### 其实是认真学习的好孩子
 
-```c
-int main()
-{
-  printf("Hello world\n");
-  return 0 ;
-}
-```
+### 喜欢化学并且正在好好学化学
+
+### 目前是化院女篮队的~
+
+### 闲的时候喜欢看小说日剧做视频
+
+### 认真生活的普通人YY
 
 ---
-
 ## 插图
 
-** Ada Lovelace **
+** 不存在的照片是不存在的 **
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Ada_Lovelace_color.svg" width=300 style="margin: 0px 80px">
+### 不知道该放什么图片，放了一张家乡某处的照片
 
----
-
-## `\(\LaTeX{}\)` in remark
-
-
-1. This is an inline integral: `\(\int_a^bf(x)dx\)`
-2. More `\(x={a \over b}\)` formulae.
-
-Display formula:
-
-$$e^{i\pi} + 1 = 0$$
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Saint_Ignatus_Shanghai.jpg" width=300 style="margin: 0px 80px">
 
 ---
 
+## 好像没什么可说的了
+
+## 嗯那就这样吧
+
+---
 class: center, middle
 
 # 谢谢
